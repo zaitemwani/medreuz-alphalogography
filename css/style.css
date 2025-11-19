@@ -3,12 +3,4 @@
   src: url("../font/medreuz-alphalogography.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
-  font-display: swap;
-}
-
-/* Helper class so you can easily apply your font anywhere */
-.medreuz {
-  font-family: "MedreuzAlphalogography", serif;
-  font-size: 28px; /* adjust freely */
-  line-height: 1.2;
 }
